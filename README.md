@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Centered Ghibli Portrait -->
 <p align="center">
-  <img src="ArtPic.png" width="200" alt="Avishek Ghimire" style="border-radius: 50%;" />
+  <img src="Banner.png" width="200" alt="Avishek Ghimire" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Avishek Ghimire 👋</h1>
