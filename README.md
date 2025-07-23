@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Avishek Ghimire 👋</h1>
 
 <p align="center">
-  <strong>Programmer | Game Developer | Tech Explorer</strong><br>
+  <strong>Software Developer | Full-Stack Engineer | AI & ML Enthusiast | Tech Explorer</strong><br>
   <em>Blending creativity with code to build immersive digital experiences.</em>
 </p>
 
@@ -30,15 +30,21 @@ Here are some ideas to get you started:
 
 ### 🧭 About Me
 
-Hello! I’m a computer science graduate with a deep passion for turning ideas into impactful software. Whether it's developing immersive gameplay mechanics or building intelligent systems, I enjoy working at the intersection of logic and creativity.
+Hello! I’m a Computer Science graduate with a passion for solving real-world problems through clean, impactful software. From building smart web apps to experimenting with machine learning models, I enjoy turning complex ideas into elegant digital solutions.
 
-- 🎓 CS Graduate with Honors
-- 🎮 Indie Game Developer (Unity + C#)
-- 🌐 Web, ML, and Full-Stack Enthusiast
-- Mobile app developer
-- 🇳🇵 From the beautiful hills of Nepal
+🎓 CS Graduate with Honors
 
-I believe that great code, like great art, tells a story—and I'm here to write mine one repo at a time.
+💻 Full-Stack & Software Developer 
+
+🤖 AI & Machine Learning Enthusiast
+
+📱 Mobile App Developer
+
+🎮 Dabbled in 2D Game Dev with Unity (C#)
+
+🇳🇵 Proudly from the beautiful hills of Nepal
+
+I believe that great code, like great art, tells a story and I'm here to write mine one repo at a time.
 
 ---
 
